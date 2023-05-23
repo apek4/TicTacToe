@@ -5,6 +5,7 @@
 ![image](https://github.com/apek4/TicTacToe/assets/114537462/ae722e42-3fa4-4a0a-ad13-1d1aab09bc7e)
 
 Flow Diagram:
+
 ![image](https://github.com/apek4/TicTacToe/assets/114537462/9173fa1f-cb10-454d-9817-2509e6c53806)
 
 Software and Hardware requirements:
