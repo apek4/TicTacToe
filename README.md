@@ -25,4 +25,6 @@ Steps to run projects:
     Setup -> Serial Port -> set Baud rate:19200 -> New setting
     Follow instructions displayed in the text console of VGA Monitor to play the game
     
-    
+Contributors:
+1. Apeksha Megeri (https://www.linkedin.com/in/apeksha-megeri-522397101/)
+2. Jugal Gore (https://www.linkedin.com/in/jugal-gore/)
