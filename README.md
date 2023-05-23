@@ -2,7 +2,7 @@
 
 2-player Tic-Tac-Toe Game using Nexys A7 FPGA board
 
-![image](https://github.com/apek4/TicTacToe/assets/114537462/13a74c58-1aca-4738-a922-a0424e76ef9e)
+![image](https://github.com/apek4/TicTacToe/assets/114537462/ae722e42-3fa4-4a0a-ad13-1d1aab09bc7e)
 
 Software and Hardware requirements:
 
