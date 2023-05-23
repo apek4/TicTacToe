@@ -1,0 +1,27 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB2BRAM.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_7SEG/AHB7SEGDEC.v,,AHB2MEM,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHBDCD.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_GPIO/AHBGPIO.v,,AHBDCD,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHBLITE_SYS.v,1632705176,verilog,,,,AHBLITE_SYS,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHBMUX.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_TIMER/AHBTIMER.v,,AHBMUX,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_7SEG/AHB7SEGDEC.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHBDCD.v,,AHB7SEGDEC,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_GPIO/AHBGPIO.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHBMUX.v,,AHBGPIO,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_TIMER/AHBTIMER.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/AHBUART.v,,AHBTIMER,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_TIMER/prescaler.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/uart_rx.v,,prescaler,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/AHBUART.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/AHBVGASYS.v,,AHBUART,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/baudgen.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/CortexM0-DS/cortexm0ds_logic.v,,BAUDGEN,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/fifo.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/font_rom.v,,FIFO,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/uart_rx.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/uart_tx.v,,UART_RX,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/uart_tx.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/vga_console.v,,UART_TX,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/AHBVGASYS.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/CortexM0-DS/CORTEXM0INTEGRATION.v,,AHBVGA,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/counter.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/dual_port_ram_sync.v,,GenericCounter,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/dual_port_ram_sync.v,1632705176,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/fifo.v,,dual_port_ram_sync,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/font_rom.v,1632705177,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_TIMER/prescaler.v,,font_rom,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/vga_console.v,1632705177,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/vga_image.v,,vga_console,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/vga_image.v,1632705177,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/vga_sync.v,,vga_image,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/vga_sync.v,1632705177,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHBLITE_SYS.v,,VGAInterface,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/CortexM0-DS/CORTEXM0INTEGRATION.v,1506944330,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_UART/baudgen.v,,CORTEXM0INTEGRATION,,,,,,,,
+C:/Jugal/Lab 9/FPGA_prev_labs/CortexM0-DS/cortexm0ds_logic.v,1506944330,verilog,,C:/Jugal/Lab 9/FPGA_prev_labs/AHB_VGA/counter.v,,cortexm0ds_logic,,,,,,,,
+C:/Jugal/Lab 9/Lab9.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,

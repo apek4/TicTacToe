@@ -1,0 +1,30 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FPGA_prev_labs/AHB2BRAM.v" \
+"../../../../FPGA_prev_labs/AHB_7SEG/AHB7SEGDEC.v" \
+"../../../../FPGA_prev_labs/AHBDCD.v" \
+"../../../../FPGA_prev_labs/AHB_GPIO/AHBGPIO.v" \
+"../../../../FPGA_prev_labs/AHBMUX.v" \
+"../../../../FPGA_prev_labs/AHB_TIMER/AHBTIMER.v" \
+"../../../../FPGA_prev_labs/AHB_UART/AHBUART.v" \
+"../../../../FPGA_prev_labs/AHB_VGA/AHBVGASYS.v" \
+"../../../../FPGA_prev_labs/CortexM0-DS/CORTEXM0INTEGRATION.v" \
+"../../../../FPGA_prev_labs/AHB_UART/baudgen.v" \
+"../../../../FPGA_prev_labs/CortexM0-DS/cortexm0ds_logic.v" \
+"../../../../FPGA_prev_labs/AHB_VGA/counter.v" \
+"../../../../FPGA_prev_labs/AHB_VGA/dual_port_ram_sync.v" \
+"../../../../FPGA_prev_labs/AHB_UART/fifo.v" \
+"../../../../FPGA_prev_labs/AHB_VGA/font_rom.v" \
+"../../../../FPGA_prev_labs/AHB_TIMER/prescaler.v" \
+"../../../../FPGA_prev_labs/AHB_UART/uart_rx.v" \
+"../../../../FPGA_prev_labs/AHB_UART/uart_tx.v" \
+"../../../../FPGA_prev_labs/AHB_VGA/vga_console.v" \
+"../../../../FPGA_prev_labs/AHB_VGA/vga_image.v" \
+"../../../../FPGA_prev_labs/AHB_VGA/vga_sync.v" \
+"../../../../FPGA_prev_labs/AHBLITE_SYS.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,12 @@
+.\objects\retarget.o: Application\retarget.c
+.\objects\retarget.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\objects\retarget.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\time.h
+.\objects\retarget.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\rt_misc.h
+.\objects\retarget.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+.\objects\retarget.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\retarget.o: Application\EDK_CM0.h
+.\objects\retarget.o: Application\edk_driver.h
+.\objects\retarget.o: Application\core_cm0.h
+.\objects\retarget.o: .\Application\core_cmInstr.h
+.\objects\retarget.o: .\Application\core_cmFunc.h
+.\objects\retarget.o: Application\edk_api.h
